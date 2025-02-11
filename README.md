@@ -12,7 +12,7 @@ This is a web-based Tic-Tac-Toe game built with Python and Flask. It includes mu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Konthaina/tic-tac-toe-game
    ```
 
 2. Navigate to the project directory:
@@ -50,4 +50,4 @@ This is a web-based Tic-Tac-Toe game built with Python and Flask. It includes mu
 
 ## Demo 🎮
 
-You can play a demo of the game [here](https://example.com/demo).
+You can play a demo of the game [here](https://tic-tac-toe-game-0p2z.onrender.com/).
